@@ -1,0 +1,20 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "Viet gi cung duoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "nhiei",
+    "thi",
+    "lam"
+  ],
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1"
+  }
+}
