@@ -4,7 +4,7 @@
   "description": "Viet gi cung duoc",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "start": "node index.js"
   },
   "keywords": [
     "nhiei",
